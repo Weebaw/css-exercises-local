@@ -16,3 +16,33 @@ img {
   #222
   #7BBADE
 */
+div.a{
+  height: 250px;
+  width: 720px;
+  margin-left: 25%;
+  padding-top: 20px;
+  background-color: #FFED5D;
+}
+
+div.b {
+  height:170px;
+  width: 630px;
+  margin-left: 6%;
+  padding-top: 20px;
+  background-color: #FF7050;
+}
+
+div.c {
+  height:100px;
+  width: 550px;
+  margin-left: 6%;
+  padding-top: 20px;
+  background-color: #222;
+}
+
+div.d {
+  height:50px;
+  width: 470px;
+  margin-left: 6%;
+  background-color: #7BBADE;
+}
